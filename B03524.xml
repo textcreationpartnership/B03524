@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The burgess ticket of Buckhaven, given to Alexander Bryson within the college thereof, upon the 32, day of Julius Cæsar, 1698. years. Suites call'd, and the court lawfully fenc'd. / By Mother Greg.</title>
+            <author>Mother Greg.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03524</idno>
+            <idno type="STC">Wing G1876</idno>
+            <idno type="STC">ESTC R177671</idno>
+            <idno type="EEBO-CITATION">52211841</idno>
+            <idno type="OCLC">ocm 52211841</idno>
+            <idno type="VID">175691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175691)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2746:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The burgess ticket of Buckhaven, given to Alexander Bryson within the college thereof, upon the 32, day of Julius Cæsar, 1698. years. Suites call'd, and the court lawfully fenc'd. / By Mother Greg.</title>
+                  <author>Mother Greg.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Printed in the year 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A burlesque.</note>
+                  <note>At foot of text: With the town seal thereunto affixt. Gideon Wilson. Cls. Burgi de Buckhaveno.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Municipal officials and employees --  Scotland --  Buckhaven --  17th century --  Humor.</term>
+               <term>Political satire, English --  Scotland --  17th century.</term>
+               <term>Buckhaven (Scotland) --  Officials and employees --  17th century --  Humor.</term>
+               <term>Buckhaven (Scotland) --  Politics and government --  17th century --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175691:1"/>
+            <pb facs="tcp:175691:1" rendition="simple:additions"/>
+            <p>THE BURGESS TICKET OF BUCKHAVEN, Given to ALEXANDER BRYSON: Within the Colledge thereof, upon the 32, day of <hi>Julius Caeſar,</hi> 1698. years.</p>
+            <p>Suites call'd, and the Court lawfully Fenced.</p>
+            <p>By <hi>Mother Greg.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed in the Year 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175691:2"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>THE BURGESS TICKET OF BUCKHAVEN.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Whilk day, compeared perſonally lang <hi>Sandy Taſone,</hi> Provoſt, <hi>Tanie Dolers,</hi> and <hi>Willie</hi> on the <hi>Know,</hi> Bailiffs; with full conſent of the Members of the Colledge. TO WIT, Dr. <hi>Criſtopher Pills</hi> Principal, and Mr. <hi>William Ells</hi> Rector, <hi>Walter Pigs,</hi> Chirurgion and Apothecary, <hi>Zacherias Silver,</hi> Gold-ſmith, <hi>John Coſh</hi> Black-ſmith, <hi>Thomas Weddall</hi> Spurrier, <hi>John Spaills</hi> Wright, <hi>John Stones</hi> Maſone, little <hi>John Kiſtrell</hi> Shoo-maker, <hi>John Black</hi> Taylor, <hi>Robert Taſone</hi> Baxter, <hi>A<g ref="char:EOLhyphen"/>lexander Taſone</hi> Habberdaſher, <hi>John Selch</hi> Trunk-maker, <hi>Hugh Macgie</hi> Mirror Maker, <hi>David Grierſon</hi> Clap-ſmith, <hi>Duncan Mackallum</hi> Horner, <hi>Thomas Gibſon,</hi> Conſtable-conveener, <hi>Richard Wood</hi> Miller, <hi>Jack Bell</hi> cryer, <hi>Scoure Clear</hi> Sword-ſlipper, <hi>Robert Thrippeny</hi> White-Iron-man, <hi>Thomas Bell</hi> Wheel-about, <hi>Francis Plates</hi> Peuterer, <hi>George Pipes</hi> Plummer, <hi>Lewis La-haire</hi> Per<g ref="char:EOLhyphen"/>wique-maker, <hi>Thomas Scribes</hi> Writer, <hi>James Lightbody</hi> elder, <hi>James Taſon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hector Aiton, John Colmer, Joſhua</hi> van <hi>Solingen, James Lightfoot</hi> yr <hi>John Law,</hi> &amp; <hi>John Grierſone</hi> Printers, <hi>Daniel Gold</hi> Imbroiderer, <hi>Clay-holes</hi> Pipe-maker, <hi>James Hydes</hi> Tanner, <hi>Alexander Taſone,</hi> Barber, <hi>Lovy</hi> Glaſier, <hi>David Dury</hi> Ship-wright, <hi>John Main</hi> Town Major, <hi>William Rae</hi> Wobſter, <hi>William Mitchell, Heriots</hi> Cook, <hi>Peter Bungs</hi> Brewer, <hi>John Taſone</hi> Gardner, <hi>Robert Stirrops</hi> Saidler, <hi>John Taſone</hi> and <hi>George Jack</hi> Officers, <hi>William Daes</hi> Gardners Officer, together with the whole Councill of the ſaid Burt, For an new and lawful Election to be made of the Provoſt, Baillies, Councill, and others thereof. In like manner, compeared perſonally, <hi>Alexander Bryſon,</hi> who humbly required his Burgeſs-ſhip, who was admitted and received for Gild-Burgeſs of the ſaid Burt, with power and libertie to him. To ſell, Canarie, Purle-royal, Pontack, <hi>Vine de paris, Raniſh</hi> Wine, <hi>Italian</hi> Wine, <hi>Vine de Burdeoux,</hi> Brandy, Uſcube, Strong-waters, Ale, Beer, Sma-drink, Swats, Setlings, Draff, Schirings, Pourings, and all other ſmaller Liquors, as Lemonado, or Water-ſolis. And to take and kill all manner and ſorts of Fiſhes, that's within or without their above-named Seas, as is hereafter ſpecified, ſuch as <hi>Allegators, Trouts, Eiles, Croſs-fiſh, Braſs-Fiſh, Killing, Ling, Skate, Codlings, Baggaties, Padles, Haddocks, Herrings, Gremhasking-fiſh, Sea-Cats, Potches, Garveis, Whiteings, Whales, Spirlings, Floocks, Sandeils, Turbets, Stock-fiſh, Ling, Kipper, Slupes, Carps, Pikes, Mennans,</hi> and <hi>Watter Paddocks,</hi> and all other the like Com<g ref="char:EOLhyphen"/>modities. And ſiklike, to ſell and gather Dulſe, Tangle, Sea-ware, Hen-ware, Slaack, and Badderlaick: And alſo, to gather Muſcles, Cockles, Wilks, Lugg and Lempets, Pintle-fiſh, Lobſters, Partens, Buckies, Worms, and all other gray Baite; and there<g ref="char:EOLhyphen"/>with to baite the great Line, ſmall Line, hand Lines, Bang-net, and Caſting-net.
+<pb n="3" facs="tcp:175691:2"/>
+And alſo to uſe the Wand for ſlaying and killing of Fiſhes, ſuch as Podlays and Potches; and to take Partains, Kavies, Crabs, Palochies, and other Shell-fiſh, with Crooke and Climpet and all other Engines whatſoever. As alſo to take and kill Selches, Powarts, Ottars, and ſuchlike, wherever he can apprehend them either by Sea or Land. And the ſaid <hi>Alexander Bryſon,</hi> binds and oblieges him to watch, waird, ſcot and lot, and in Skaith keep, that the ſaid Burt be not won or taken in by the Great <hi>Turk,</hi> the Empe<g ref="char:EOLhyphen"/>rour, the King of <hi>Spain,</hi> the King of <hi>Denmark,</hi> the King of <hi>France,</hi> or any other Fu<g ref="char:EOLhyphen"/>gitives, Lownes, Vagabounds, Knaves, Whoores, Harlots, Thieves, Limmers, Tin<g ref="char:EOLhyphen"/>klers, Lairds, Bairds, Gaberlunȝiemen, and other Sturdie Beggars: And for that ef<g ref="char:EOLhyphen"/>fect the ſaid <hi>Alexander Bryſon</hi> be armed with Munſmegs, Morter-pieces, Cannon-royal, Cannon-ordinarie, Cannon Serpentine, French Cannon, Demy Cannon eldeſt, Demie Cannon, Culvering, ordinary Culvering, Demy Culvering, Demy Culvering ſomething leſs, Sacker ordinary, Sacker or Minian, Falcon, Falconnet, Blunderbuſh, Muſquet, Carabeine, Hulſter Piſtols, Side Piſtols, Pocket Piſtols, Bourtrie Guns, Bane Guns, Quite Guns and Pen Guns; So being provided of all theſe, ordains him never to want a Hornfull of Powder, and likewiſe to be furniſhed with Sting, Thing, Ling, and Pike-ſtaff, and all other engines of War, ſuch as was uſed by <hi>Alexander the Great,</hi> by <hi>Scanderbeg</hi> &amp; <hi>Tamerlane,</hi> at the Ingagements between the King of <hi>Britain,</hi> the <hi>French,</hi> and the <hi>Hollander;</hi> or that was uſed at <hi>Worſter, Dumbar, York, Newcaſtle, Kilſyth, Inverkeithing, Pinkie Field, Pentland, Bothwel-bridge,</hi> or at the Bickering between <hi>Lieth</hi> and <hi>Edinburgh,</hi> or at any other Fight ſince <hi>Cain</hi> and <hi>Abell,</hi> to that betwixt <hi>Michael Bobin</hi> and his Wife with the Rock, to defend the ſaid Burt in time of War and trouble, and not to abſent himſelf in Moſs, Muire, Cleuch, Craig, Brae, Know, How, Hill, nor no uther part whatſomever, under the pain of poynding of his readieſt goods &amp; gear, and tinſell of his freedom for ever. And gave in his great ſolemne Oath upon a <hi>Skate</hi> rumple before the Lords and Council conveened, not to ſee any wrong or prejudice to the ſaid Burt ſo far as his ſtrength and power can reach. Whilk Act above written was read and approven in preſence of the whole Magiſtrats and Councill conveened, with many promiſes to <hi>Alexander Bryſon</hi> of farther preferment &amp; authority, if he did be<g ref="char:EOLhyphen"/>have himſelf according to the uncivil civility of the ſaid Burt. Upon the whilk com<g ref="char:EOLhyphen"/>peared <hi>Lang Sandy,</hi> the moſt ancient Skipper of the ſaid Burt, and proteſted againſt the ſaid Act and Election<g ref="char:punc">▪</g> as not being lawfully Elected without his conſent and advice avowing himſelf to be the eldeſt blood of the City, that becauſe his Predeceſſors having evermore the rule and Government thereof theſe many years bygane, paſt memory of man: And that he and his Predeceſſors has been in poſſeſſion as chief Magiſtrats of the ſaid Burt, without tineing of Election, and in continual uſe and cuſtom to trade and traffique after the ſaid manner particularly above-mentioned, And to have the firſt vote, place of Court, and plainte, and all uther priviledges in all preceedings. And for that effect the ſaid <hi>Lang Sandie,</hi> as having the eldeſt right of Provoſtry, proteſted and took Inſtruments in <hi>Gideon Wilſons</hi> hands, being the Town Clerk for the time, and preſented <hi>Hendry Taſone,</hi> his eldeſt ſon and Heir, and deſired that he ſhould be admitted and received in his place, in reſpect he himſelf was grown, &amp; aged, through much eaſe, drinking of ſtrong drink, ſelling of ſtrong Waters, albeit in his youth, he might have gone through a large Curting-ring, yet he was ſubject to great Travel, row<g ref="char:EOLhyphen"/>ing and ſailing over high and ſandy places in the Sea, and by the Art of Navigation to compaſs the Seas of ſoft yird, and hard yird, and weſt to the Cardown, the ſoft Buckie yird, and the weſt ground of the Craig, the out-ground and in ground of <hi>Pickletillum,</hi> the outmoſt Channel, and inmoſt Channel, taking up by marks on the Land, the Fire-bank of <hi>Berwick-law, Carlick-muire,</hi> and <hi>Great-law, Cleuch</hi> in <hi>Clachan,</hi> the little <hi>Lomonds, Drupeis, Keley</hi> by the <hi>Law,</hi> the <hi>Lumond</hi> by the <hi>Loch,</hi> the <hi>Cannongate,</hi> the <hi>Beacon</hi> of the <hi>Gallow-lee,</hi> the <hi>Skinoch Dinghall,</hi> and <hi>Gridleneſs.</hi> AND there<g ref="char:EOLhyphen"/>fore, the ſaid <hi>Lang Sandy,</hi> as being weak and unable of himſelf to diſcharge the Office of Provoſtry, deſiring his ſonne to be admitted and received in manner foreſaid, whilk
+<pb n="4" facs="tcp:175691:3"/>
+made great ſtrife and debate among the head Clans of the ſaid Burt, being all aſſembled in the ſaid Colledge; TO wit <hi>Tom Tomſon, alias black-Thomas, Robie Taſon</hi> in the Cloſs, <hi>Robs Taſone, alias white-Willies, Sandy Taſone</hi> and <hi>Jamie Taſone</hi> in the Know, and <hi>Willie Taſone</hi> in the Brae, Thumbleſs <hi>Katties</hi> Good-man, <hi>Davids Taſone, Iſ<g ref="char:EOLhyphen"/>bells Davie, Junie,</hi> lang <hi>Hendries ſon, Willy Taſone, Bettys Willy, Tams</hi> ſon, <hi>Pate Waker,</hi> dainty <hi>Nanſies</hi> ſon, <hi>Junie Walker Lybraes</hi> ſon, and <hi>Tanis Dollers</hi> lade, all Fiſhers or Sea Fleſhers of the ſaid Burt, whilk deſire they would in no wayes grant nor ſtand to, neither ſuffer a young Provoſt to be, in reſpect his head would not fill his Fa<g ref="char:EOLhyphen"/>thers Bonnet: Upon the whilk <hi>Lang Sandy</hi> Proteſted and avowed to appeal to a higher Judge. Whereupon the ſaid <hi>Alexander Bryſon</hi> ſworn and admitted Burgeſs, asks Acts of Court, Extracted forth of the Court Books of <hi>Buckhaven,</hi> be me, <hi>Sic Sub<g ref="char:EOLhyphen"/>ſc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bitur. With the Town Seale thereunto affixt.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>GIDEON WILSON.</hi> Cls. Burgide <hi>Buckhaveno.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175691:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
